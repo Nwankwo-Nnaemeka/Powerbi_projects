@@ -4,7 +4,7 @@ This README file describes the process of analyzing a WhatsApp group chat using 
 <br>
 _Here is the PowerBI visualization_
 <br>
-![PowerBi Visulization](Screenshot(211).png "WhatsApp Group Analysis")
+![PowerBi Visulization](https://github.com/Nwankwo-Nnaemeka/Powerbi_projects/blob/main/Screenshot%20(211).png "WhatsApp Group Analysis")
 ### The data was collected and cleaned using the following steps:
 
 * The WhatsApp chat was exported as a .txt file.-
